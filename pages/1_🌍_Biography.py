@@ -12,7 +12,7 @@ logo = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU0NnlkMWZxcnBqOHVnZX
 st.sidebar.image(logo)
 
 
-st.title("Interactive Map")
+st.title("Biography")
 
 col1, col2 = st.columns([4, 1])
 options = list(leafmap.basemaps.keys())

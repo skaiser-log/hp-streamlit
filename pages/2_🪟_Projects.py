@@ -13,7 +13,7 @@ st.sidebar.info(markdown)
 logo = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU0NnlkMWZxcnBqOHVnZXdsNTh1YmVleWpwNGVyaXE3bzRmdmtkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6RVGDmsXrONHCYG3R/giphy.gif"
 st.sidebar.image(logo)
 
-st.title("Split-panel Map")
+st.title("Projects")
 
 with st.expander("See source code"):
     with st.echo():
