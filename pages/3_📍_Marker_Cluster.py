@@ -5,12 +5,12 @@ st.set_page_config(layout="wide")
 
 markdown = """
 A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+<https://github.com/skaiser-log/hp-streamlit>
 """
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://i.imgur.com/UbOXYAU.png"
+logo = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU0NnlkMWZxcnBqOHVnZXdsNTh1YmVleWpwNGVyaXE3bzRmdmtkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6RVGDmsXrONHCYG3R/giphy.gif"
 st.sidebar.image(logo)
 
 st.title("Marker Cluster")
