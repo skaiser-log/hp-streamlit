@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
-An online web app showcasing some of my skill in GIS, Phyton and Web Development. My LinkedIn profile: 
+An online web app showcasing some of my skill in GIS, Phyton and Web Development. My LinkedIn profile:
 <https://www.linkedin.com/in/silvio-kaiser/>
 """
 
